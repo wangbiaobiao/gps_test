@@ -8,7 +8,7 @@
 #include <termios.h>
 #include <stdlib.h>
 #include <time.h>
-#include "nmea/nmea.h" 
+#include "include/nmea.h" 
 
 
 #define GPS_MESG_LENGTH  500  
